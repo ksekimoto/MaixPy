@@ -64,7 +64,7 @@ git submodule update --init --recursive path_to_submodule
 * Switch path to `maixpy_k210` project director
 
 ```
-cd /d/dev/MaixPy
+cd /c/dev/MaixPy
 cd projects/maixpy_k210
 ```
 
@@ -89,7 +89,7 @@ set(DCMAKE_SH="CMAKE_SH-NOTFOUND")
 projects\maixpy_k210\config_default.mk
 ```
 :
-CONFIG_TOOLCHAIN_PATH="d:/cross/kendryte-toolchain/bin"
+CONFIG_TOOLCHAIN_PATH="c:/cross/kendryte-toolchain/bin"
 :
 ```
 
