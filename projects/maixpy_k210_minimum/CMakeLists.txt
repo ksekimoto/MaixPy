@@ -1,5 +1,8 @@
 cmake_minimum_required(VERSION 3.9)
 
+set(CMAKE_SYSTEM_NAME Generic)
+
+set(DCMAKE_SH="CMAKE_SH-NOTFOUND")
 
 # Get SDK path
 if(NOT SDK_PATH)

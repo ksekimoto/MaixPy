@@ -65,3 +65,6 @@ __pycache__
 
 lib_sipeed_kpu/
 
+/.cproject
+/.project
+/.settings

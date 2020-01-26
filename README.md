@@ -107,7 +107,9 @@ Doc refer to [maixpy.sipeed.com](https://maixpy.sipeed.com)
 
 ## Build From Source
 
-See [build doc](build.md)
+See [build doc](build.md) on Linux
+
+See [build doc](build_msys2.md) on Windows MSYS2 (Mingw64)
 
 The historic version see [historic branch](https://github.com/sipeed/MaixPy/tree/historic) (No longer maintained, just keep commit history)
 

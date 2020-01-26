@@ -3,7 +3,7 @@
 #
 # Toolchain configuration
 #
-CONFIG_TOOLCHAIN_PATH="/opt/kendryte-toolchain/bin"
+CONFIG_TOOLCHAIN_PATH="d:/cross/kendryte-toolchain/bin"
 CONFIG_TOOLCHAIN_PREFIX="riscv64-unknown-elf-"
 # end of Toolchain configuration
 

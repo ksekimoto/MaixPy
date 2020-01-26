@@ -66,8 +66,8 @@ cwd = sys.path[0]
 os.chdir(cwd)
 
 config_filename = ".config.mk"
-gen_project_type = "Unix Makefiles"
-
+#gen_project_type = "Unix Makefiles"
+gen_project_type = "MSYS Makefiles"
 
 config_content_old = ""
 
